@@ -1,0 +1,12 @@
+CMakeCache.txt
+cmake_install.cmake
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.vcxproj*
+*.dir/
+/CMakeFiles/
+/Debug/
+/Release/
+/Win32/
